@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <title>TechPoint</title>
+</head>
+
+<body>
+
+    <h1>TechPoint</h1>
+
+    <h2>La tecnologia alla portata di tutti</h2>
+
+    <p>
+        Benvenuti da TechPoint, un negozio specializzato
+        nella vendita di prodotti tecnologici.
+        La nostra azienda offre computer, smartphone,
+        tablet e accessori per ogni esigenza.
+        Il nostro obiettivo è aiutare i clienti
+        a trovare prodotti di qualità a prezzi
+        convenienti, offrendo assistenza e
+        consulenza personalizzata.
+    </p>
+
+    <h2>I nostri prodotti</h2>
+
+    <ul>
+        <li>Computer portatili</li>
+        <li>Smartphone</li>
+        <li>Tablet</li>
+        <li>Accessori informatici</li>
+    </ul>
+
+    <h2>Perché scegliere TechPoint?</h2>
+
+    <ol>
+        <li>Prodotti di qualità</li>
+        <li>Prezzi competitivi</li>
+        <li>Assistenza personalizzata</li>
+    </ol>
+
+    <p>
+        Approfitta delle nostre
+        <strong>offerte speciali!</strong>
+    </p>
+
+    <h2>Il nostro negozio</h2>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpMIEX3vJo2wYL7w55qKKu1p6coojf_aoOnOev0mKcg&s=10"
+         alt="Immagine del negozio"
+         width="350">
+
+    <p>
+        Per approfondire il mondo della tecnologia,
+        visita
+        <a href="https://www.wikipedia.org">
+            Wikipedia
+        </a>.
+    </p>
+
+</body>
+
+</html>
